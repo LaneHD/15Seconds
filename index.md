@@ -1,1 +1,1 @@
-[To the WebGL Game] (web)
+[To the WebGL Game](web)
